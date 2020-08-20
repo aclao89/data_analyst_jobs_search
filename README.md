@@ -1,1 +1,1 @@
-# data_anaylst_jobs_search
+# data_analyst_jobs_search
