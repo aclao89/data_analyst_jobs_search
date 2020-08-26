@@ -1,0 +1,254 @@
+Number of job listings,State,City
+310.0,NY,New York
+130.0,IL,Chicago
+119.0,CA,San Francisco
+81.0,TX,Austin
+80.0,CA,Los Angeles
+78.0,NC,Charlotte
+72.0,TX,Houston
+66.0,TX,Dallas
+62.0,CA,San Diego
+56.0,PA,Philadelphia
+47.0,CO,Denver
+45.0,TX,San Antonio
+38.0,CA,San Jose
+35.0,AZ,Phoenix
+33.0,NJ,Jersey City
+31.0,AZ,Tempe
+30.0,WA,Seattle
+29.0,TX,Irving
+29.0,OH,Columbus
+28.0,TX,Plano
+22.0,UT,Salt Lake City
+22.0,CA,Santa Clara
+19.0,FL,Jacksonville
+19.0,CA,El Segundo
+18.0,CA,San Mateo
+18.0,VA,Norfolk
+17.0,CA,Burbank
+17.0,IN,Indianapolis
+16.0,CA,Sunnyvale
+16.0,TX,Fort Worth
+15.0,AZ,Scottsdale
+15.0,CA,Mountain View
+14.0,CA,Palo Alto
+13.0,CA,Cupertino
+13.0,VA,Hampton
+13.0,NY,Brooklyn
+13.0,CA,Long Beach
+12.0,CA,Redwood City
+11.0,WA,Redmond
+11.0,CA,Menlo Park
+11.0,DE,Wilmington
+11.0,CA,Oakland
+10.0,TX,Richardson
+9.0,CO,Centennial
+9.0,CA,Foster City
+9.0,IL,Downers Grove
+9.0,CA,Santa Monica
+9.0,NY,Lake Success
+8.0,NJ,Newark
+8.0,PA,Horsham
+8.0,CO,Greenwood Village
+8.0,TX,Arlington
+8.0,CA,Glendale
+7.0,AZ,Chandler
+7.0,CA,Pasadena
+7.0,CO,Englewood
+7.0,PA,King of Prussia
+7.0,VA,Portsmouth
+7.0,FL,Gainesville
+6.0,PA,Malvern
+6.0,NC,Mooresville
+6.0,CA,South San Francisco
+6.0,CA,Woodland Hills
+6.0,PA,Wayne
+6.0,CA,Anaheim
+6.0,CO,Broomfield
+5.0,CO,Lakewood
+5.0,NJ,Florham Park
+5.0,CA,Milpitas
+5.0,CO,Aurora
+5.0,TX,Pearland
+5.0,CA,Fremont
+5.0,UT,Lehi
+5.0,AZ,Glendale
+4.0,CA,Pleasanton
+4.0,GA,Athens
+4.0,CA,Cerritos
+4.0,PA,West Point
+4.0,NC,Huntersville
+4.0,NJ,Camden
+4.0,TX,Allen
+4.0,WA,Kent
+4.0,CA,Burlingame
+4.0,CA,Culver City
+3.0,TX,Round Rock
+3.0,IL,Northbrook
+3.0,WA,Issaquah
+3.0,CA,Arcadia
+3.0,TX,Sugar Land
+3.0,SC,Fort Mill
+3.0,IL,Deerfield
+3.0,NJ,Mount Laurel
+3.0,PA,Doylestown
+3.0,TX,Grapevine
+3.0,NJ,Weehawken
+3.0,CA,Stanford
+3.0,CA,Union City
+3.0,CO,Louisville
+3.0,CA,Los Gatos
+3.0,CA,San Ramon
+3.0,VA,Chesapeake
+3.0,CO,Boulder
+3.0,CA,City of Industry
+2.0,UT,Draper
+2.0,VA,Newport News
+2.0,CA,Gardena
+2.0,WA,Kirkland
+2.0,TX,Lewisville
+2.0,WA,Renton
+2.0,OH,Hilliard
+2.0,TX,Pasadena
+2.0,NJ,Franklin Lakes
+2.0,CA,Beverly Hills
+2.0,CA,Newark
+2.0,CA,San Rafael
+2.0,NJ,Summit
+2.0,CA,Venice
+2.0,CA,Alhambra
+2.0,NJ,West Orange
+2.0,PA,West Chester
+2.0,IL,Woodridge
+2.0,CA,Brea
+2.0,OH,Dublin
+2.0,NY,Long Island City
+2.0,TX,Lackland AFB
+2.0,AZ,Mesa
+2.0,NJ,Hoboken
+2.0,NY,Bronx
+2.0,NJ,South Plainfield
+2.0,NJ,Fairfield
+2.0,NY,Manhasset
+2.0,CA,Berkeley
+2.0,IL,Rolling Meadows
+2.0,PA,Feasterville Trevose
+2.0,IL,Broadview
+2.0,CA,Marina del Rey
+2.0,CA,Northridge
+2.0,OH,Westerville
+2.0,CA,Irwindale
+2.0,TX,Stafford
+2.0,PA,Plymouth Meeting
+2.0,IL,Oak Brook
+2.0,IN,Carmel
+2.0,NJ,Marlton
+2.0,AZ,DC Ranch
+2.0,WA,Bellevue
+2.0,CA,Walnut Creek
+2.0,NJ,Parsippany
+2.0,NJ,Haworth
+2.0,PA,Berwyn
+2.0,PA,Allegheny West
+2.0,NJ,Whippany
+2.0,TX,Westlake
+2.0,KS,Topeka
+1.0,NJ,Montvale
+1.0,CA,Alameda
+1.0,NJ,Secaucus
+1.0,CA,Inglewood
+1.0,CA,San Bruno
+1.0,TX,Roanoke
+1.0,CA,Reedley
+1.0,IN,Lawrence
+1.0,IL,Northfield
+1.0,NJ,Iselin
+1.0,NY,Great Neck
+1.0,PA,Norristown
+1.0,IN,Beech Grove
+1.0,PA,Paoli
+1.0,NY,Far Rockaway
+1.0,TX,Farmers Branch
+1.0,CA,Emeryville
+1.0,CO,Henderson
+1.0,CA,Novato
+1.0,UT,American Fork
+1.0,VA,Smithfield
+1.0,IN,Whitestown
+1.0,NY,Queens Village
+1.0,CA,Millbrae
+1.0,CA,East Palo Alto
+1.0,KS,Burlingame
+1.0,NJ,Moorestown
+1.0,TX,Fort Sam Houston
+1.0,VA,Fort Eustis
+1.0,PA,Boothwyn
+1.0,TX,Coppell
+1.0,CA,Torrance
+1.0,PA,Ridley Park
+1.0,IL,Northlake
+1.0,IL,Burr Ridge
+1.0,NY,Valley Stream
+1.0,PA,Conshohocken
+1.0,PA,Radnor
+1.0,CA,Monterey Park
+1.0,UT,Sandy
+1.0,TX,Spring
+1.0,IL,Bridgeview
+1.0,UT,West Jordan
+1.0,NC,Indian Trail
+1.0,TX,Southlake
+1.0,CA,Carson
+1.0,TX,Tarrant
+1.0,IL,Arlington Heights
+1.0,TX,West Lake Hills
+1.0,CA,Panorama City
+1.0,CA,Duarte
+1.0,IL,Itasca
+1.0,NY,Mount Vernon
+1.0,VA,Yorktown
+1.0,CA,Whittier
+1.0,PA,Chester Township
+1.0,CO,Littleton
+1.0,IL,Glenview
+1.0,PA,West Conshohocken
+1.0,NJ,Essex Fells
+1.0,CA,Campbell
+1.0,NJ,Little Ferry
+1.0,NJ,Fort Lee
+1.0,PA,Exton
+1.0,CO,Lone Tree
+1.0,CA,El Cajon
+1.0,PA,Newtown
+1.0,VA,Suffolk
+1.0,PA,Newtown Square
+1.0,PA,Blue Bell
+1.0,TX,Addison
+1.0,CA,National City
+1.0,NJ,Woodbridge
+1.0,CA,Hercules
+1.0,IL,Evanston
+1.0,CA,Hanford
+1.0,PA,Fort Washington
+1.0,CA,Hermosa Beach
+1.0,CA,Signal Hill
+1.0,NJ,Berkeley Heights
+1.0,IL,Elk Grove Village
+1.0,NJ,Woodcliff Lake
+1.0,IL,Maywood
+1.0,NY,Staten Island
+1.0,CA,Daly City
+1.0,IN,Jeffersonville
+1.0,TX,Carrollton
+1.0,CA,Azusa
+1.0,CA,San Fernando
+1.0,UT,Riverton
+1.0,IL,Des Plaines
+1.0,TX,Cedar Park
+1.0,NY,Harrison
+1.0,CA,Pico Rivera
+1.0,CA,Marin City
+1.0,CA,Visalia
+1.0,PA,Bensalem
+1.0,FL,Alachua
+1.0,VA,Virginia Beach
