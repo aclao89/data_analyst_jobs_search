@@ -36,6 +36,8 @@ This dataset was created by picklesueat and contains more than 2000 job listings
 - Plotly: interactive, open-source, and browser-based graphing library for Python
 - Opencage.geocoder:  an API that can be use to look up coordinates of places, and also find out the place a set of coordinates corresponds to
 - Wordcloud: a visual representation of text data
+- Yellowbrick: a suite of visual analysis and diagnostic tools designed to facilitate machine learning with scikit-learn.
+- Scikit-Learn: predictive data analysis
 
 ### Data Cleaning
 
@@ -60,9 +62,6 @@ This dataset was created by picklesueat and contains more than 2000 job listings
 
 - As previously mentioned, the first 8 companies are employment and recruitment agencies. The only non-staffing companies are Apple, MUFG (Financial Services), Citi, Bank of New York Mellon, and Molina Healthcare. Apple is a major technology company that designs, develops, and sells consumer electronics, computer software, and online services. Financial institutions and healthcare are essential businesses, required to combat the unprecedented times of COVID19.
 
-#### Are public institutions hiring less due to budget cuts?
-
-![]()
 
 #### What is the distribution of a data analyst's salary?
 
@@ -82,3 +81,24 @@ This dataset was created by picklesueat and contains more than 2000 job listings
 
 #### Upper Bound of Median Salary by Industries with at least 15 job postings
 ![top10indusuppersalary](https://github.com/aclao89/data_anaylst_jobs_search/blob/master/images/top10induppersalary.png)
+
+
+#### Top 15 industries by max revenue
+
+![top10sectorsmarev](https://github.com/aclao89/data_anaylst_jobs_search/blob/master/images/top10industryrevenue.png)
+
+- The top 15 industries can be deemed "essential businesses":
+- Drug stores, grocery stores and supermarkets need to be open for sanitation supplies, food, and essential goods.
+- Utilities, cable/TV/internet providers are the main sources for productivity since many companies are directing employees to work from home. Students of all ages are   engaged in distance learning. Since shelter in place protocol, people turn to the internet and TV for entertainment.
+- Public transportation is vastly utilized by millions of people in the United States especially in densely populated cities such as New York City, San Francisco, and Los Angeles.
+
+
+### Which states offer the most data analyst roles?
+
+![choroplethmap](https://github.com/aclao89/data_anaylst_jobs_search/blob/master/images/choropleth.html)
+- While Silicon Valley is the nation's leading technology-driven economy, there are many notable tech hubs in the US with exciting opportunities. https://builtin.com/tech-hubs 
+
+1. It's no surprise that California has the most job offerings due to its population, size, and location of Silicon Valley.
+2. Austin, Texas is one of the upcoming tech hubs forming outside of Silicon Valley. The cost of living is much lower than Silicon Valley which attracts many college graduates and young professionals.
+3. New York City is a global icon on the forefront of culture, finance, and media. Digital media platform, finance tech, and real estate are some of the few popular industries that employ data analyst roles.
+4. Chicago, Illinois has roughly 6,000 tech companies with popular industries of fintech, healthtech, and big data.  
